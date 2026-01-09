@@ -1,11 +1,5 @@
 {
   "updated": "2026-01-09",
   "source": "https://asof.app",
-  "products": [
-    {"name": "Claude", "url": "https://claude.ai", "source": "hacker_news", "score": 95},
-    {"name": "Cursor", "url": "https://cursor.sh", "source": "github_trending", "score": 92},
-    {"name": "Linear", "url": "https://linear.app", "source": "producthunt_rss", "score": 88},
-    {"name": "Supabase", "url": "https://supabase.com", "source": "github_trending", "score": 85},
-    {"name": "Vercel", "url": "https://vercel.com", "source": "hacker_news", "score": 82}
-  ]
+  "products": []
 }
