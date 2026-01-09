@@ -1,0 +1,14 @@
+{
+  "updated": "2026-01-09",
+  "source": "https://asof.app",
+  "sectors": [
+    {"name": "AI/ML", "signals": 3200, "pct_of_total": 28},
+    {"name": "SaaS", "signals": 2100, "pct_of_total": 18},
+    {"name": "DevTools", "signals": 1800, "pct_of_total": 16},
+    {"name": "Fintech", "signals": 1200, "pct_of_total": 10},
+    {"name": "Security", "signals": 980, "pct_of_total": 9},
+    {"name": "Cloud", "signals": 870, "pct_of_total": 8},
+    {"name": "Healthcare", "signals": 650, "pct_of_total": 6},
+    {"name": "Other", "signals": 600, "pct_of_total": 5}
+  ]
+}
